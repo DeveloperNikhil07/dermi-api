@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "data": [
+      {
+        "patientId": "D001",
+        "name": "Alice Johnson",
+        "age": 34,
+        "condition": "Psoriasis",
+        "diagnosisDate": "2024-10-01",
+        "status": "Ongoing"
+      },
+      {
+        "patientId": "D002",
+        "name": "Michael Smith",
+        "age": 29,
+        "condition": "Eczema",
+        "diagnosisDate": "2024-09-15",
+        "status": "Completed"
+      },
+      {
+        "patientId": "D003",
+        "name": "Sophia Brown",
+        "age": 41,
+        "condition": "Acne",
+        "diagnosisDate": "2024-11-10",
+        "status": "Ongoing"
+      },
+      {
+        "patientId": "D004",
+        "name": "James Williams",
+        "age": 23,
+        "condition": "Rosacea",
+        "diagnosisDate": "2024-11-05",
+        "status": "Ongoing"
+      },
+      {
+        "patientId": "D005",
+        "name": "Emma Davis",
+        "age": 37,
+        "condition": "Dermatitis",
+        "diagnosisDate": "2024-08-20",
+        "status": "Completed"
+      }
+    ]
+  }
+  
