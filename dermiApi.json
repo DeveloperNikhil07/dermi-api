@@ -8,7 +8,7 @@
       "condition": "Psoriasis",
       "diagnosisDate": "2024-10-01",
       "status": "Ongoing",
-      "failedBooking": "failed"
+      "bookingStatus": "failed"
     },
     {
       "patientId": "D002",
@@ -17,7 +17,7 @@
       "condition": "Eczema",
       "diagnosisDate": "2024-09-15",
       "status": "Completed",
-      "confirmBooking": "Confirm"
+      "bookingStatus": "Confirm"
     },
     {
       "patientId": "D003",
@@ -26,7 +26,7 @@
       "condition": "Acne",
       "diagnosisDate": "2024-11-10",
       "status": "Ongoing",
-      "cancellBooking": "Cancel"
+      "bookingStatus": "Cancel"
     },
     {
       "patientId": "D004",
@@ -35,7 +35,7 @@
       "condition": "Rosacea",
       "diagnosisDate": "2024-11-05",
       "status": "Ongoing",
-      "cancellBooking": "Cancel"
+      "bookingStatus": "Cancel"
     },
     {
       "patientId": "D005",
@@ -44,7 +44,7 @@
       "condition": "Dermatitis",
       "diagnosisDate": "2024-08-20",
       "status": "Completed",
-      "failedBooking": "failed"
+      "bookingStatus": "failed"
     },
     {
       "patientId": "D006",
@@ -53,7 +53,7 @@
       "condition": "Psoriasis",
       "diagnosisDate": "2024-11-01",
       "status": "Ongoing",
-      "failedBooking": "failed"
+      "bookingStatus": "failed"
     },
     {
       "patientId": "D007",
@@ -62,7 +62,7 @@
       "condition": "Eczema",
       "diagnosisDate": "2024-09-15",
       "status": "Completed",
-      "confirmBooking": "Confirm"
+      "bookingStatus": "Confirm"
     },
     {
       "patientId": "D008",
@@ -71,7 +71,7 @@
       "condition": "Acne",
       "diagnosisDate": "2024-11-10",
       "status": "Ongoing",
-      "cancellBooking": "Cancel"
+      "bookingStatus": "Cancel"
     },
     {
       "patientId": "D009",
@@ -80,7 +80,7 @@
       "condition": "Rosacea",
       "diagnosisDate": "2024-11-05",
       "status": "Ongoing",
-      "cancellBooking": "Cancel"
+      "bookingStatus": "Cancel"
     },
     {
       "patientId": "D0010",
@@ -89,7 +89,7 @@
       "condition": "Dermatitis",
       "diagnosisDate": "2024-08-20",
       "status": "Completed",
-      "failedBooking": "failed"
+      "bookingStatus": "failed"
     }
   ]
 }
